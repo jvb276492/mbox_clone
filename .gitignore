@@ -1,0 +1,68 @@
+# Node modules (dependencies)
+node_modules/
+npm-debug.log*
+yarn-error.log
+pnpm-debug.log
+.vscode/
+
+# Logs
+logs/
+*.log
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.npm/
+.babelrc
+
+# Build files
+dist/
+build/
+*.lock
+*.cache
+*.tmp
+.expo/
+.expo-shared/
+
+# iOS / Xcode
+ios/
+*.xcworkspace
+*.xcuserdata/
+*.xcodeproj/
+Pods/
+DerivedData/
+Carthage/
+
+# Android
+android/
+*.iml
+.gradle/
+local.properties
+*.keystore
+android/app/build/
+android/.cxx/
+android/.idea/
+android/.settings/
+
+# Metro Bundler cache
+metro-cache/
+
+# Debugger files
+debug/
+.idea/
+*.swp
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Temporary files
+temp/
+tmp/
+cache/
+
+# VSCode settings (optional)
+.vscode/
+
+# Mac system files
+.DS_Store
